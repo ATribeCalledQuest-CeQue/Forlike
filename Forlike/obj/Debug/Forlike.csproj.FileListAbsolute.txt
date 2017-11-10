@@ -1,0 +1,13 @@
+D:\Code\git\Forlike\Forlike\bin\Debug\terminal8x8.png
+D:\Code\git\Forlike\Forlike\bin\Debug\Forlike.exe.config
+D:\Code\git\Forlike\Forlike\bin\Debug\Forlike.exe
+D:\Code\git\Forlike\Forlike\bin\Debug\Forlike.pdb
+D:\Code\git\Forlike\Forlike\bin\Debug\OpenTK.dll
+D:\Code\git\Forlike\Forlike\bin\Debug\RLNET.dll
+D:\Code\git\Forlike\Forlike\bin\Debug\RogueSharp.dll
+D:\Code\git\Forlike\Forlike\bin\Debug\OpenTK.xml
+D:\Code\git\Forlike\Forlike\bin\Debug\OpenTK.dll.config
+D:\Code\git\Forlike\Forlike\bin\Debug\RogueSharp.xml
+D:\Code\git\Forlike\Forlike\obj\Debug\Forlike.csprojResolveAssemblyReference.cache
+D:\Code\git\Forlike\Forlike\obj\Debug\Forlike.exe
+D:\Code\git\Forlike\Forlike\obj\Debug\Forlike.pdb
